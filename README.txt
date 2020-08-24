@@ -1,4 +1,4 @@
 New Project 
 "Store App" 
-Under Development ...
+Under Development 
 note : without vendor File 
