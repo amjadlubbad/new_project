@@ -1,3 +1,3 @@
-new project 
-Store App  
-under development 
+New Project 
+"Store App" 
+Under Development ...
