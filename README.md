@@ -1,3 +1,3 @@
 new project 
-ٍٍStore App  
+Store App  
 under development 
